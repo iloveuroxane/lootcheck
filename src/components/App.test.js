@@ -12,4 +12,8 @@ describe('App', () => {
   it('contem um componente Wallet conectado', () => {
     expect(app.find('Connect(Wallet)').exists()).toBe(true);
   })
+
+  it('contem um componente Loot conectado', () => {
+    expect(app.find('Connect(Loot)').exists()).toBe(true);
+  });
 });
