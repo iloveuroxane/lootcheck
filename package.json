@@ -2,6 +2,7 @@
   "name": "lootcheck",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://akamuraasai.github.io/lootcheck/",
   "dependencies": {
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
