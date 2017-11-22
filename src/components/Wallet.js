@@ -28,8 +28,8 @@ export class Wallet extends Component {
         <h3 className="saldo">Saldo da Carteira: {this.props.saldo}</h3>
         <br />
         <input className='input-carteira' onChange={this.atualizaSaldo} />
-        <button className='btn-deposito' onClick={this.depositar}>Depositar</button>
-        <button className="btn-saque" onClick={this.sacar}>Sacar</button>
+        <button className='btn-deposito' onClick={this.depositar}>Depositar (R$)</button>
+        <button className="btn-saque" onClick={this.sacar}>Sacar (R$)</button>
       </div>
     );
   }
