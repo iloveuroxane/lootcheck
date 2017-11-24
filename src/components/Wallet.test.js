@@ -13,7 +13,7 @@ describe('Wallet', () => {
   });
 
   it('mostra o saldo presente nas props', () => {
-    expect(carteira.find('.saldo').text()).toEqual('Saldo da Carteira: 10');
+    expect(carteira.find('.saldo').text()).toEqual('Saldo da Carteira: 20');
   });
 
   it('cria um input para sacar ou depositar dinheiro na conta', () => {
