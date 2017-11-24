@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f20e9674-8f1d-4315-b3c5-3dd52cdf0ab0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/components/Wallet.test.js" afterPath="$PROJECT_DIR$/../src/components/Wallet.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/components/__snapshots__/Wallet.test.js.snap" afterPath="$PROJECT_DIR$/../src/components/__snapshots__/Wallet.test.js.snap" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="Wallet.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../src/components/Wallet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="31" column="65" lean-forward="false" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -25,22 +27,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../package.json">
+      <file leaf-file-name="Wallet.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../src/components/Wallet.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,23 +76,26 @@
         <option value="$USER_HOME$/src/reducers/balance.test.js" />
         <option value="$USER_HOME$/src/reducers/balance.js" />
         <option value="$USER_HOME$/src/actions/bitcoin.test.js" />
-        <option value="$PROJECT_DIR$/../../src/actions/bitcoin.test.js" />
-        <option value="$PROJECT_DIR$/../../src/actions/constants.js" />
-        <option value="$PROJECT_DIR$/../../src/actions/bitcoin.js" />
-        <option value="$PROJECT_DIR$/../../src/reducers/bitcoin.js" />
-        <option value="$PROJECT_DIR$/../../src/reducers/bitcoin.test.js" />
-        <option value="$PROJECT_DIR$/../../src/reducers/index.test.js" />
-        <option value="$PROJECT_DIR$/../../src/reducers/index.js" />
-        <option value="$PROJECT_DIR$/../../src/components/Wallet.js" />
-        <option value="$PROJECT_DIR$/../../src/index.js" />
-        <option value="$PROJECT_DIR$/../../src/components/__snapshots__/Loots.test.js" />
-        <option value="$PROJECT_DIR$/../../src/components/App.test.js" />
-        <option value="$PROJECT_DIR$/../../src/components/Loot.test.js" />
-        <option value="$PROJECT_DIR$/../../src/components/App.js" />
-        <option value="$PROJECT_DIR$/../../src/components/Loot.js" />
-        <option value="$PROJECT_DIR$/../../.travis.yml" />
-        <option value="$PROJECT_DIR$/../../package.json" />
-        <option value="$PROJECT_DIR$/../src/components/Wallet.js" />
+        <option value="$USER_HOME$/src/actions/bitcoin.test.js" />
+        <option value="$USER_HOME$/src/actions/constants.js" />
+        <option value="$USER_HOME$/src/actions/bitcoin.js" />
+        <option value="$USER_HOME$/src/reducers/bitcoin.js" />
+        <option value="$USER_HOME$/src/reducers/bitcoin.test.js" />
+        <option value="$USER_HOME$/src/reducers/index.test.js" />
+        <option value="$USER_HOME$/src/reducers/index.js" />
+        <option value="$USER_HOME$/src/components/Wallet.js" />
+        <option value="$USER_HOME$/src/index.js" />
+        <option value="$USER_HOME$/src/components/__snapshots__/Loots.test.js" />
+        <option value="$USER_HOME$/src/components/App.test.js" />
+        <option value="$USER_HOME$/src/components/Loot.test.js" />
+        <option value="$USER_HOME$/src/components/App.js" />
+        <option value="$USER_HOME$/src/components/Loot.js" />
+        <option value="$USER_HOME$/.travis.yml" />
+        <option value="$USER_HOME$/package.json" />
+        <option value="$USER_HOME$/.travis.yml" />
+        <option value="$USER_HOME$/src/components/__snapshots__/Wallet.test.js.snap" />
+        <option value="$USER_HOME$/src/components/Wallet.js" />
+        <option value="$PROJECT_DIR$/../src/components/Wallet.test.js" />
       </list>
     </option>
   </component>
@@ -108,6 +105,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../node_modules" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -116,7 +116,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -129,21 +129,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="lootcheck" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
@@ -154,7 +140,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../src/components" />
+      <recent name="$USER_HOME$/src/components" />
       <recent name="$USER_HOME$/src/components" />
       <recent name="$USER_HOME$/src" />
     </key>
@@ -192,12 +178,14 @@
       <workItem from="1511298016061" duration="6720000" />
       <workItem from="1511355341852" duration="10451000" />
       <workItem from="1511380025101" duration="320000" />
-      <workItem from="1511381197202" duration="420000" />
+      <workItem from="1511381197202" duration="4279000" />
+      <workItem from="1511386326484" duration="603000" />
+      <workItem from="1511557196920" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28750000" />
+    <option name="totallyTimeSpent" value="33263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1368" height="741" extended-state="6" />
@@ -216,6 +204,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -265,45 +254,43 @@
     <entry file="file://$USER_HOME$/src/reducers/balance.js" />
     <entry file="file://$USER_HOME$/src/index.js" />
     <entry file="file://$USER_HOME$/src/actions/bitcoin.test.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/actions/constants.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/reducers/bitcoin.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/reducers/bitcoin.test.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/index.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/reducers/index.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/reducers/index.test.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/actions/bitcoin.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/actions/bitcoin.test.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/components/Loot.test.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/components/App.test.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/components/Wallet.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/components/Loot.js" />
-    <entry file="file://$PROJECT_DIR$/../../src/components/App.js" />
-    <entry file="file://$PROJECT_DIR$/../../package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/../../.travis.yml" />
-    <entry file="file://$PROJECT_DIR$/../../package.json" />
+    <entry file="file://$USER_HOME$/src/actions/constants.js" />
+    <entry file="file://$USER_HOME$/src/reducers/bitcoin.js" />
+    <entry file="file://$USER_HOME$/src/reducers/bitcoin.test.js" />
+    <entry file="file://$USER_HOME$/src/index.js" />
+    <entry file="file://$USER_HOME$/src/reducers/index.js" />
+    <entry file="file://$USER_HOME$/src/reducers/index.test.js" />
+    <entry file="file://$USER_HOME$/src/actions/bitcoin.js" />
+    <entry file="file://$USER_HOME$/src/actions/bitcoin.test.js" />
+    <entry file="file://$USER_HOME$/src/components/Loot.test.js" />
+    <entry file="file://$USER_HOME$/src/components/App.test.js" />
+    <entry file="file://$USER_HOME$/src/components/Wallet.js" />
+    <entry file="file://$USER_HOME$/src/components/Loot.js" />
+    <entry file="file://$USER_HOME$/src/components/App.js" />
+    <entry file="file://$USER_HOME$/package-lock.json" />
+    <entry file="file://$USER_HOME$/.travis.yml" />
+    <entry file="file://$USER_HOME$/package.json" />
+    <entry file="file://$USER_HOME$/src/components/__snapshots__/Wallet.test.js.snap" />
+    <entry file="file://$USER_HOME$/.travis.yml" />
+    <entry file="file://$USER_HOME$/package.json" />
+    <entry file="file://$USER_HOME$/src/components/Wallet.js" />
     <entry file="file://$PROJECT_DIR$/../src/components/Wallet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="31" column="65" lean-forward="false" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../package.json">
+    <entry file="file://$PROJECT_DIR$/../src/components/Wallet.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
